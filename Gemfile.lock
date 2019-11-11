@@ -250,7 +250,7 @@ GEM
       unicode-display_width (~> 1.0, >= 1.0.1)
     ruby-graphviz (1.2.2)
     ruby-macho (1.4.0)
-    ruby-prof (0.15.2)
+    ruby-prof (0.18.0)
     ruby-progressbar (1.10.1)
     safe_yaml (1.0.4)
     sawyer (0.8.1)
