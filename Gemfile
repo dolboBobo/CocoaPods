@@ -37,7 +37,7 @@ group :development do
   cp_gem 'nanaimo',               'Nanaimo'
   cp_gem 'xcodeproj',             'Xcodeproj'
 
-  gem 'cocoapods-dependencies', '~> 1.0.beta.1'
+  gem 'cocoapods-dependencies', '~> 1.3'
 
   gem 'bacon', :git => 'https://github.com/leahneukirchen/bacon.git'
   gem 'minitest', '5.12.0' # Pinned since > 5.12.0+ drops support for Ruby 2.0
